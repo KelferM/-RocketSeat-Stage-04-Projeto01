@@ -1,0 +1,29 @@
+h1 {
+
+  font-size: 24px;
+
+}
+
+input {
+
+  background: #9ce929;
+  border: 1.5px solid grey;
+  border-radius: 7px;
+  height: 25px;
+  width: 90px;
+
+  font-size: 12px;
+
+}
+
+input:hover {
+
+  background: #04D361;
+
+  font-size: 12px;
+  font-weight: bold;
+
+  height: 25.5px;
+  width: 90.5px;
+
+}
