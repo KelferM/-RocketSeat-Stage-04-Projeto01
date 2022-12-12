@@ -1,48 +1,40 @@
 :root {
-
   font-size: 62.5%;
-
 }
 
+body{
+  margin-top: 5rem;
+  margin-left: 5rem;
+  background: #000000d8;
+}
 
-div {
-
-
-  
+div {  
   display: flex;
   gap: 2.0rem;
   align-items: center;
-
+  margin-top: 1rem;
 }
 
 h1 {
-
   font-size: 2.0rem;
-
+  color: #ffffff;
   border-bottom: solid 0.1rem gray;
 
 }
 
 input {
-
   background: #9ce929;
   border: 0.15rem solid grey;
   border-radius: 0.7rem;
   height: 2.5rem;
   width: 9.0rem;
-
   font-size: 1.2rem;
-
 }
 
 input:hover {
-
   background: #04D361;
-
   font-size: 1.2rem;
   font-weight: bold;
-
   height: 2.55rem;
   width: 9.05rem;
-
 }
